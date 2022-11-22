@@ -1,0 +1,7 @@
+- Hello, My name is Benjamin Annis.
+- I'm a gamer and a programmer.
+- I'm a college student studying Information Technology.
+- I'm currently learning Java and Web Development as of 11/22/2022.
+- I- would love to learn more so if I ever do post things, and you happen to see if I would appreciate a code-review.
+- I currently am able to code in Python, C++, Java, Web Development, and that's about it I think.
+- I don't plan on really learning any more languages until I can say for certain I know the ends and outs of the current ones I know.
